@@ -1,0 +1,19 @@
+
+Ask user for their age (Integer)
+
+In a while loop check if the inputted age lies between 0 and 150.
+If the age does not lie between 0 and 150, ask for the age again.
+If the age does lie between the range, break out of the loop.
+Print age accepted.
+
+///////////////////////////////////////////////////////////////////////////////
+
+Adult or Child warm up.
+
+Ask for input of age
+If age >= 18
+    print adult
+elif age < 0
+    print invalid answer
+else
+    print child

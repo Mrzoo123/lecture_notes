@@ -1,0 +1,8 @@
+100%
+
+✓
+
+Classes use UpperCaseLettersForEveryWord
+Variables are all_lowercase_with_underscores
+Constants are ALL_UPPERCASE
+Functions have all_lowercase_with_brackets()

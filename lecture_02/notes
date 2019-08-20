@@ -1,0 +1,6 @@
+When using format the colon seperates the order of the format and the thing you want done to that specific place.
+
+0 = World
+1 = Tyler
+
+# "Hello {}, my name is {}".format(0, 1)
